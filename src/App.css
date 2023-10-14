@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  font-size: 50px;
+  margin-bottom: 20px;
+  border-color: gold;
+}
+
+input[type="date"] {
+  padding: 10px;
+  font-size: 30px;
+}
+
+.result {
+  font-size: 60px;
+  margin-top: 20px;
+}
